@@ -6,10 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Food Website</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-datetimepicker.css">
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="css/loader.css">
+    <link rel="stylesheet" type="text/css" href="css/bistro-icons.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="css/settings.css">
     <link rel="stylesheet" type="text/css" href="css/navigation.css">
+    <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css">
+    <link rel="stylesheet" type="text/css" href="css/zerogrid.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/loader.css">
+    <link rel="shortcut icon" href="images/favicon.png">
+
 </head>
 <body>
 <!-- <div class="loader"> 
@@ -38,22 +48,22 @@
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fixed-collapse-navbar" aria-expanded="false"> 
             <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> 
             </button>
-           <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo" class="img-responsive"></a> 
+           <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="logo" class="img-responsive"></a> 
          </div>
         
             <div id="fixed-collapse-navbar" class="navbar-collapse collapse navbar-right">
               <ul class="nav navbar-nav">
                 <li>
-                   <a href="index.html">Home</a>
+                   <a href="index.php">Home</a>
                    
                 </li>
-                <li><a href="food.html">Our Food</a></li>
+                <li><a href="food.php">Our Food</a></li>
                 
                 
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="faq.php">FAQ</a></li>
                   
-                <li><a href="./account/register.php">Order Now</a></li>
+                <li><a href="account/register.php">Order Now</a></li>
                 
               </ul>
             </div>

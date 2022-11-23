@@ -11,15 +11,11 @@
         <h4 class="heading">Quick Links</h4>
         <hr class="half_space">
         <ul class="widget_links">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="about.html">About Us</a></li>
-          <li><a href="location.html">Locations</a></li>
-          <li><a href="menu.html">Menu</a></li>
-          <li><a href="faq.html">Faq's</a></li>
-          <li><a href="order.html">Order Now</a></li>
-          <li><a href="gallery.html">Gallery</a></li>
-          <li><a href="food.html">Food</a></li>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="about.php">About Us</a></li>
+          <li><a href="faq.php">Faq's</a></li>
+          <li><a href="account/register.php">Order Now</a></li>
+          <li><a href="food.php">Food</a></li>
         </ul>
       </div>
       <div class="col-md-3 col-sm-6 footer_column">
@@ -64,6 +60,26 @@
 
 <a href="#." id="back-top"><i class="fa fa-angle-up fa-2x"></i></a>
 
+<script src="js/jquery-2.2.3.js" type="text/javascript"></script>
 <script src="js/bootstrap.min.js" type="text/javascript"></script>
+<script src="js/jquery.themepunch.tools.min.js"></script>
+<script src="js/jquery.themepunch.revolution.min.js"></script>
+<script src="js/revolution.extension.layeranimation.min.js"></script>
+<script src="js/revolution.extension.navigation.min.js"></script>
+<script src="js/revolution.extension.parallax.min.js"></script>
+<script src="js/revolution.extension.slideanims.min.js"></script>
+<script src="js/revolution.extension.video.min.js"></script>
+<script src="js/slider.js" type="text/javascript"></script>
+<script src="js/owl.carousel.min.js" type="text/javascript"></script>
+<script src="js/jquery.parallax-1.1.3.js"></script>
+<script src="js/jquery.mixitup.min.js"></script>
+<script src="js/jquery-countTo.js"></script>
+<script src="js/jquery.appear.js"></script>  
+<script src="js/jquery.fancybox.js"></script>
+<script src="js/jquery.fancybox-media.js"></script>
+<script src="js/jquery.geocomplete.min.js"></script>
+<script src="js/functions.js" type="text/javascript"></script>
+<script src="js/map.js"></script>
+<script src="js/wow.min.js"></script>
 </body>
 </html>
