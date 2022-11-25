@@ -1,6 +1,6 @@
 <?php
 session_start();
-$servername = "localhost";
+$servername = "db_heroku";
 $server_user = "root";
 $server_pass = "";
 $dbname = "food";
