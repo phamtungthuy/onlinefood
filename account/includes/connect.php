@@ -1,15 +1,15 @@
 <?php
 session_start();
-$servername = "localhost";
-$server_user = "root";
-$server_pass = "";
-$dbname = "food";
-$port = 3308;
-// $servername = "ec2-3-227-68-43.compute-1.amazonaws.com";
-// $server_user = "bhbtmaggqotebo";
-// $server_pass = "437343278bc49ea8f4aa3a7d5cfa54993cf960c3e5cd735ed8615519f157e65f";
-// $dbname = "d6qdpvng36l4rb";
-// $port = 5432;
+// $servername = "localhost";
+// $server_user = "root";
+// $server_pass = "";
+// $dbname = "food";
+// $port = 3308;
+$servername = "sql.freedb.tech";
+$server_user = "freedb_phamtungthuy";
+$server_pass = "g#6#fXWeRdT4UJQ";
+$dbname = "freedb_onlinefood";
+$port = 3306;
 $name = $_SESSION['name'];
 $role = $_SESSION['role'];
 $con = new mysqli($servername, $server_user, $server_pass, $dbname, $port);
