@@ -1,7 +1,7 @@
 # onlinefood
-Hướng dẫn cài đặt:\n
--Tải xampp về máy và download source code. \n
--Giải nén sourcode rồi ném folder sau khi giải nén vào folder htdocs trong folder xampp. \n
--Trong folder vừa giải nén vào account => sql => có file food.sql, ta thêm vào phpMyAdmin.\n
--Mở xampp, launch apache và mysql. \n
--Mở tab mới trên trình duyệt gõ localhost:"yourport"/onlinefood. \n
+Hướng dẫn cài đặt:<br>
+-Tải xampp về máy và download source code.<br>
+-Giải nén sourcode rồi ném folder sau khi giải nén vào folder htdocs trong folder xampp.<br>
+-Trong folder vừa giải nén vào account => sql => có file food.sql, ta thêm vào phpMyAdmin.<br>
+-Mở xampp, launch apache và mysql.<br>
+-Mở tab mới trên trình duyệt gõ localhost:"yourport"/onlinefood.<br>
