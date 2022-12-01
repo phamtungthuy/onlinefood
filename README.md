@@ -5,3 +5,6 @@ Hướng dẫn cài đặt:<br>
 -Trong folder vừa giải nén vào account => sql => có file food.sql, ta thêm vào phpMyAdmin.<br>
 -Mở xampp, launch apache và mysql.<br>
 -Mở tab mới trên trình duyệt gõ localhost:"yourport"/onlinefood.<br>
+
+#Link demo sản phẩm:
+https://onlinefoodweb.herokuapp.com/
