@@ -39,7 +39,9 @@ Hướng dẫn cài đặt:<br>
 <h3>- Xem tin tức, các thông tin liên quan đến sản phẩm.</h3><br>
 <br>
 <h1> DATABASE</h1>
-![onlinefood](https://user-images.githubusercontent.com/94853261/206321491-b43b3bf1-a18e-4273-9e25-0457e1f984c0.png)
+<img src="https://user-images.githubusercontent.com/94853261/206321491-b43b3bf1-a18e-4273-9e25-0457e1f984c0.png">
+<img href
+![onlinefood](https://user-images.githubusercontent.com/94853261/206321491-b43b3bf1-a18e-4273-9e25-0457e1f984c0.png)>
 <br>
 <h1> Một số hình ảnh về giao diện của ứng dụng</h1>
 ![image](https://user-images.githubusercontent.com/94853261/207058687-396af30c-58d0-4f26-a9e4-2441bd6270e0.png)
