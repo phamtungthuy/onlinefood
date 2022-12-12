@@ -39,28 +39,15 @@ Hướng dẫn cài đặt:<br>
 <h3>- Xem tin tức, các thông tin liên quan đến sản phẩm.</h3><br>
 <br>
 <h1> DATABASE</h1>
-<img src="https://user-images.githubusercontent.com/94853261/206321491-b43b3bf1-a18e-4273-9e25-0457e1f984c0.png">
-<img href
-![onlinefood](https://user-images.githubusercontent.com/94853261/206321491-b43b3bf1-a18e-4273-9e25-0457e1f984c0.png)>
-<br>
+<img src="https://user-images.githubusercontent.com/94853261/206321491-b43b3bf1-a18e-4273-9e25-0457e1f984c0.png"><br>
 <h1> Một số hình ảnh về giao diện của ứng dụng</h1>
-![image](https://user-images.githubusercontent.com/94853261/207058687-396af30c-58d0-4f26-a9e4-2441bd6270e0.png)
-<br><br>
-![image](https://user-images.githubusercontent.com/94853261/207058804-1125fc6a-9ef8-4214-aa81-492858cea8c7.png)
-<br><br>
-![image](https://user-images.githubusercontent.com/94853261/207058893-664f7ea6-9355-462f-8bd6-0c1ab8150c03.png)
-<br><br>
-![image](https://user-images.githubusercontent.com/94853261/207058992-71b31be2-bc36-4463-9fac-8807ff5734b5.png)
-<br><br>
-![image](https://user-images.githubusercontent.com/94853261/207059119-88e65186-a19c-47e7-9b6f-bfb39dd7d069.png)
-<br><br>
-![image](https://user-images.githubusercontent.com/94853261/207059176-6fc140cd-4286-4f24-a68f-6fce63ec655c.png)
-<br><br>
-![image](https://user-images.githubusercontent.com/94853261/207059264-7a404038-5728-45bd-9039-f2f846c21472.png)
-<br><br>
-![image](https://user-images.githubusercontent.com/94853261/207059397-7fd0a5b3-8c4f-4fdc-8de4-36cf522d28ba.png)
-<br><br>
-![image](https://user-images.githubusercontent.com/94853261/207059516-974dfd9a-07fd-456d-8e89-488081fa97c7.png)
-
- <br>
+<img src="https://user-images.githubusercontent.com/94853261/207058687-396af30c-58d0-4f26-a9e4-2441bd6270e0.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207058804-1125fc6a-9ef8-4214-aa81-492858cea8c7.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207058893-664f7ea6-9355-462f-8bd6-0c1ab8150c03.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207058992-71b31be2-bc36-4463-9fac-8807ff5734b5.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207059119-88e65186-a19c-47e7-9b6f-bfb39dd7d069.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207059176-6fc140cd-4286-4f24-a68f-6fce63ec655c.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207059264-7a404038-5728-45bd-9039-f2f846c21472.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207059397-7fd0a5b3-8c4f-4fdc-8de4-36cf522d28ba.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207059516-974dfd9a-07fd-456d-8e89-488081fa97c7.png">
 
