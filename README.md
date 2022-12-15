@@ -40,6 +40,12 @@ Hướng dẫn cài đặt:<br>
 <br>
 <h1> DATABASE</h1><br>
 <img src="https://user-images.githubusercontent.com/94853261/206321491-b43b3bf1-a18e-4273-9e25-0457e1f984c0.png"><br>
+<h1>Phân Tích Hệ Thống</h1><br>
+<img src="https://user-images.githubusercontent.com/94853261/207874126-04435eee-b66a-4788-906a-5a1455b30e07.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207874184-ea3d3bb5-4d8e-4888-a22b-fe14bed815f6.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207874302-df77b29f-d78d-4717-8dcf-c92fe905b5a5.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207874398-6c7f9e60-cea0-459f-95d6-a0bcc606d511.png"><br>
+<img src="https://user-images.githubusercontent.com/94853261/207874499-d19fdd57-ed45-41eb-a9c0-e3fe238642c6.png"><br>
 <h1>Giao diện người dùng và quản trị</h1><br>
 <img src="https://user-images.githubusercontent.com/94853261/207059397-7fd0a5b3-8c4f-4fdc-8de4-36cf522d28ba.png"><br>
 <img src="https://user-images.githubusercontent.com/94853261/207059516-974dfd9a-07fd-456d-8e89-488081fa97c7.png"><br>
