@@ -10,6 +10,8 @@ Hướng dẫn cài đặt:<br>
 <br>
 #Video demo: https://www.youtube.com/watch?v=RWCFrIjh_7M
 <br>
+#Link presentation: https://www.canva.com/design/DAFS0IYVdAo/l6uY287Qf6QoBAakY_oo0w/edit
+<br>
 <h1> Chức năng của website </h1>
 <br>
 <h2>1. Admin</h2><br>
@@ -40,6 +42,15 @@ Hướng dẫn cài đặt:<br>
 <br>
 <h1> DATABASE</h1><br>
 <img src="https://user-images.githubusercontent.com/94853261/206321491-b43b3bf1-a18e-4273-9e25-0457e1f984c0.png"><br>
+<h1> Phân tích các bảng database</h1><br>
+<h3>users:</h3> lưu thông tin người dùng hoặc quản trị viên<br>
+<h3>orders:</h3> lưu thông tin đơn đặt hàng<br>
+<h3>order_details:</h3 lưu thông tin chi tiết về các đơn đặt hàng><br>
+<h3>items:</h3> lưu các đơn hàng<br>
+<h3>wallet:</h3> lưu thông tin ví thanh toán<br>
+<h3>wallet_details:</h3> lưu thông tin chi tiết của ví thanh toán<br>
+<h3>tickets:</h3> lưu thông tin các phản hồi của khách hàng<br>
+<h3>ticket_details:</h3> lưu thông tin chi tiết các phản hồi<br>
 <h1>Phân Tích Hệ Thống</h1><br>
 <img src="https://user-images.githubusercontent.com/94853261/207874126-04435eee-b66a-4788-906a-5a1455b30e07.png"><br>
 <img src="https://user-images.githubusercontent.com/94853261/207874184-ea3d3bb5-4d8e-4888-a22b-fe14bed815f6.png"><br>
