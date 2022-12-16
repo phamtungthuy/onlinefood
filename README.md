@@ -45,7 +45,7 @@ Hướng dẫn cài đặt:<br>
 <h1> Phân tích các bảng database</h1><br>
 <h3>users:</h3> lưu thông tin người dùng hoặc quản trị viên<br>
 <h3>orders:</h3> lưu thông tin đơn đặt hàng<br>
-<h3>order_details:</h3 lưu thông tin chi tiết về các đơn đặt hàng><br>
+<h3>order_details:</h3> lưu thông tin chi tiết về các đơn đặt hàng<br>
 <h3>items:</h3> lưu các đơn hàng<br>
 <h3>wallet:</h3> lưu thông tin ví thanh toán<br>
 <h3>wallet_details:</h3> lưu thông tin chi tiết của ví thanh toán<br>
